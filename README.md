@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @1omerli
-- 👀 I’m interested in software 
-- 🌱 I’m currently learning Python 
-- 📫 You can reach me at my e-mail oilicepinar@gmail.com
-- Passionate about coding and creating innovative solutions
-- Always seeking new challenges to expand my skills and knowledge
-- Collaboration and teamwork are key to achieving great results
-- Continuous learner, constantly exploring new technologies
-- Driven by a strong desire to make a positive impact through software development
+Merhaba, ben Ömer Ali İlicepınar
+Yazılıma ilgi duyuyorum ve bu alanda kendimi geliştiriyorum
+Şu anda Python öğreniyorum ve görüntü işleme projeleri üzerinde çalışıyorum
+
+📫 Bana oilicepinar@gmail.com e-posta adresinden ulaşabilirsiniz
+💡 Kodlama ve yenilikçi çözümler üretme konusunda tutkuluyum
+🎯 Yeni teknolojiler öğrenmeyi seviyor, her zaman kendimi geliştirecek fırsatlar arıyorum
+
+🧠 Sürekli öğrenen biriyim; yapay zeka, Flask ve PyCharm gibi alanlarda kendimi geliştirmeye devam ediyorum
+📱 Mobil programlama projelerinde Firebase kullanarak uygulamalar geliştiriyorum
+💻 VS Code ve PyCharm gibi araçlarla projelerimi daha verimli hale getiriyorum
 
 <!---
 1omerli/1omerli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
