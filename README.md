@@ -10,6 +10,8 @@ ve PyCharm kullanıyorum.
 -💻 VS Code ve PyCharm gibi araçlarla projelerimi daha verimli hale getiriyorum
 
 -📫 Bana oilicepinar@gmail.com e-posta adresinden ulaşabilirsiniz
+
+-Hedefim, mobil programlama ve yapay zeka alanlarında uzmanlaşmak. Bu doğrultuda sürekli öğrenmeye açık bir şekilde ilerliyor, yeni teknolojileri keşfetmeye özen gösteriyorum.
 <!---
 1omerli/1omerli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
