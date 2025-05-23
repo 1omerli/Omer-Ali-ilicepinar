@@ -1,5 +1,5 @@
--Merhaba, ben Ömer Ali İlicepınar
--Yazılıma ilgi duyuyorum ve bu alanda kendimi geliştiriyorum
+-Merhaba, ben Ömer Ali İlicepınar yazılıma ilgi duyuyorum ve bu alanda kendimi geliştiriyorum. Bilgisayar Mühendisliği öğrencisiyim.
+
 -Şu anda Python öğreniyorum ve görüntü işleme projeleri üzerinde çalışıyorum
 
 -📫 Bana oilicepinar@gmail.com e-posta adresinden ulaşabilirsiniz
